@@ -1,2 +1,2 @@
 # CppBluePrint
-Skeleton for C++ based project
+Skeleton for C++ project
